@@ -13,6 +13,13 @@
 
 - 📫 How to reach me **kanukashivashankar@gmail.com**
 
+
+<h2>🎓 Education</h2>
+<ul>
+  <li>🎓 <strong>Bachelors Of Science</strong> – MNR Degree College</li>
+  <li>🏫 <strong>Intermediate (MPC)</strong> – Sri Chaitanya Junior College</li>
+  <li>🏫 <strong>Schooling</strong> – S G B Model High School</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
